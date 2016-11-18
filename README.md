@@ -24,29 +24,3 @@ SQL queries for this are in repository with the name PartA.
 
 SQL queries for this are in repository with the name PartB.
 
-3. Example XML document over which both queries return non-empty results.
-
-<?xml version="1.0"?>
-<A>
-    
-<B>
-        		<C></C>
-        		<D></D>
-    	</B>
-    
-    	<B>
-       		 <D>
-            		<E></E>
-        		</D>
-    	</B>
-    
-    	<C></C>
-    
-    	<E></E>
-    
-    	<B>
-        		<C></C>
-    	</B>
-
-
-</A>
