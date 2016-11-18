@@ -16,6 +16,8 @@ RangeEnd is the end of the range for the node.
 
 
 2. Translate the following XPath queries to equivalent SQL-2 queries (no recursion):
+
+
 (a) //a//*.
 
 SQL queries for this are in repository with the name PartA.
